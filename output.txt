@@ -1,0 +1,56 @@
+VIKASHVAR RAJAN
+Software Engineer vikashvarrajan19@gmail.com | LinkedIn Profile
+
+PROFESSIONAL SUMMARY
+Passionate Software Engineer with 2+ years of experience in full-stack development.
+Proficient in building robust back-end applications with Java Spring Boot and enhancing
+user interfaces with ReactJS. Proven expertise in developing AI solutions using
+Retrieval-Augmented Generation (RAG) to streamline knowledge retrieval. Skilled in
+Micro-Frontend Architecture, task scheduling, and third-party integrations.
+
+TECHNICAL SKILLS
+●​ Languages & Backend: Java, Spring Boot, Spring Batch, Data Structures &
+Algorithms (DSA), System Design
+●​ Frontend: React.js, JavaScript, HTML5, CSS3, Micro-frontends, Webpack Module
+Federation
+●​ Data & AI: MongoDB, MongoDB Vector, Solr, Vector Databases, RAG, Large
+Language Models (LLM)
+●​ Tools & Testing: Git, Bitbucket, JUnit, Jest, Mockito, Quartz Scheduler, VS Code,
+Eclipse
+
+PROFESSIONAL EXPERIENCE
+Associate Software Engineer | RESPONSIVE Jul 2024 – Present
+●​ Micro-Frontend Architecture: Designed and maintained a robust architecture using
+React and Webpack Module Federation, enabling modular development and
+significantly reducing deployment time.
+●​ AI & Search Optimization: Developed an AI Agent for automated profile building
+using Solr’s semantic and vector search (RAG), enhancing result accuracy and
+retrieval efficiency.
+●​ Code Quality: Improved JUnit test coverage for the Profile Center from ~40% to
+~90%, drastically increasing system maintainability.
+●​ Third-Party Integrations: Integrated DocuSign and SIG APIs into the Profile
+Center to streamline NDA signing and automate vendor risk assessments.
+●​ Feature Development: Embedded GrapesJS with React to enable dynamic
+website template creation and implemented Quartz Scheduler to automate periodic
+system tasks.
+●​ Leadership: Led PoC initiatives (SSR, API integrations) and mentored junior
+developers on engineering best practices.
+
+Software Engineer Intern | RESPONSIVE Jul 2023 – Jul 2024
+●​ Database Solutions: Implemented scalable solutions using MongoDB Vector for
+efficient AI model data storage and retrieval.
+●​ Backend Automation: Built Spring Batch jobs for secure user account deletions
+and bulk document downloads, ensuring reliability through polling mechanisms.
+●​ Full-Stack Development: Contributed to the Profile Center redesign using React
+and TypeScript, improving user accessibility by 20% and optimizing backend
+aggregation pipelines.
+●​ System Design: Applied high-level system design skills to approach diverse
+business problems, focusing on scalability and performance.
+
+EDUCATION
+Bachelor of Engineering | Bannari Amman Institute of Technology 2020 – 2024 | CGPA:
+8.3/10
+Higher Secondary Education | SRC Matriculation Higher Secondary School 2018 – 2020 |
+Percentage: 91.2%
+
+
