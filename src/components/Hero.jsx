@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react';
+import profileImg from '../assets/profile.png';
 
 export default function Hero() {
   const titles = ["Vikashvar Rajan", "a Software Engineer", "Gen AI Enthusiast"];
@@ -27,7 +28,7 @@ export default function Hero() {
           <p>Passionate Software Engineer with 2+ years of experience in full-stack development. I have built robust back-end applications with Java Spring Boot and enhanced user interfaces with ReactJS. I have developed AI solutions using Retrieval-Augmented Generation (RAG) to streamline knowledge retrieval. I have been a key player in Micro-Frontend Architecture, task scheduling, and third-party integrations.</p>
         </div>
         <div className="hero-image">
-          <img src="/src/assets/profile.png" alt="Vikashvar Rajan" className="profile-img" />
+          <img src={profileImg} alt="Vikashvar Rajan" className="profile-img" />
         </div>
       </div>
     </section>
